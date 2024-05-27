@@ -1,6 +1,3 @@
-Swarn Jyoti Kumari Keshri
-
-
 PROJECT Related Information:
 
 Connect mongoDB database /start MongoDB
